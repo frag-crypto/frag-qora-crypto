@@ -1,7 +1,7 @@
 export { initApi, store } from './api_deps.js'
 
-export * from './api/api.js'
 export * from './api/deps/deps.js'
+export * from './api/api.js'
 
 export * from './api/registerUsername.js'
 

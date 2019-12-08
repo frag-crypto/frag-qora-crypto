@@ -1,6 +1,6 @@
+import { store } from '../api_deps.js'
 import { stateAwait } from './utils/stateAwait.js'
 // import { store } from '../store.js'
-import { store } from '../api_deps.js'
 import { Sha512 } from 'asmcrypto.js'
 // import utils from '../qora/deps/utils.js'
 import utils from '../api/deps/utils.js'
